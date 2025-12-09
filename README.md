@@ -1,2 +1,2 @@
 # trauma-engine
-Hopeful Game engine
+A hopeful Game engine
